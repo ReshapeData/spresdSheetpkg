@@ -1,0 +1,9 @@
+{
+    "path" : "~/app/liudan/ruleandtemplate",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

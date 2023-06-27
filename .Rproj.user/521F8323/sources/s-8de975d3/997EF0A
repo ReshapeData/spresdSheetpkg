@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1686289251208.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "997EF0A",
+    "lastKnownWriteTime" : 1686289119,
+    "last_content_update" : 1686289119,
+    "path" : "~/app/liudan/spresdSheetpkg/R/dept.R",
+    "project_path" : "R/dept.R",
+    "properties" : {
+        "cursorPosition" : "42,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
